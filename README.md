@@ -5,3 +5,7 @@ This is a basic timer app which uses basic features of modern Javascript like cl
 # Screenshot
 
 <img src = "screenshot/timer.png">
+
+# Link to the timer app
+
+https://pinkman7009.github.io/TimerApp/
